@@ -122,5 +122,5 @@ live2d:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:RunSky87/RunSky87.github.io.git
+  repo: git@github.com:RunSky87/blog-test
   branch: master 
